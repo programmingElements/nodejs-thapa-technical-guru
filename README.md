@@ -44,4 +44,35 @@ Official Link To Download NodeJS : https://nodejs.org/en
 
 Official Documentation : https://nodejs.org/docs/latest/api/
 
+Official Package Manager for NodeJS : https://www.npmjs.com/
 
+# Verify the NodeJS, npm Installed Successfully
+
+  1. node -v (or) node --version
+
+  2. npm -v (or) npm --version
+
+# Download and Installation of Vscode
+
+Official Link To Download vscode : https://code.visualstudio.com/
+
+# Node JS Prerequisities [javascript running on server]
+ 
+  * Basic Javascript (Advanced JS will be bonus)
+  * ES5 & ES6 | ECMAScript 6
+  * Client Server Model (optional)
+
+# NodeJS REPL
+
+  The REPL feature of Node is very useful in experimenting with node.js codes and to debug Javascript codes.
+
+     * Read - Reads user's input, parses the input into Javascript data-structure, and stores in memory.
+
+     * Eval - Takes and evaluates the data structure.
+
+     * Print - Prints the result.
+
+     * Loop - Loops the above command until the user presses ctrl-c twice.
+
+     
+ 
