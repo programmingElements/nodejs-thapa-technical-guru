@@ -80,6 +80,19 @@ Official Link To Download vscode : https://code.visualstudio.com/
 
      * Node.js has a set of built-in modules which you can use without any further installation.
      
+# Challenge Time
+
+     * Create a folder named it Thapa
+     
+     * Create a file in it named bio.txt and data into it.
+     
+     * Add more data into the file at the end of the existing data.
+     
+     * Read the data without getting the buffer data at first.
+     
+     * Rename the file name to mybio.txt.
+     
+     * now delete both the file and the folder. 
 
 
  
