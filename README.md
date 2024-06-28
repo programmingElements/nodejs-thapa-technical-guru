@@ -74,5 +74,12 @@ Official Link To Download vscode : https://code.visualstudio.com/
 
      * Loop - Loops the above command until the user presses ctrl-c twice.
 
+# NodeJS Core Module
+
+     * Consider modules to be the same as Javascript Libraries. A set of functions you want to include in your application.
+
+     * Node.js has a set of built-in modules which you can use without any further installation.
      
+
+
  
