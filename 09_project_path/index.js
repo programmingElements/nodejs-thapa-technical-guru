@@ -15,5 +15,3 @@ console.log(path.extname(__filename));
 
 // parse
 console.log(path.parse(__filename));
-
-//
