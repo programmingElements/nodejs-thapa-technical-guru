@@ -9,7 +9,7 @@ A NodeJS Tutorials and Projects By Thapa Technical Guru
 
    The runtime environment is literally just the environment your application is running in.
 
-3. NodeJS is a Single Threaded, Synchronous & Non-blocking IO
+3. NodeJS is a Single Threaded, Synchronous & Non-blocking IO.
 
 
 # What is built on Chrome's V8 Javascript engine ?
@@ -101,6 +101,11 @@ Official Link To Download vscode : https://code.visualstudio.com/
 # Path Module For Working With File and Directory Path
 
 
+# npm - package manager for node js libraries
+
+  npm init [To initialize the package.json file]
+
+  npm i chalk [To install package into nodejs]
 
 
  
