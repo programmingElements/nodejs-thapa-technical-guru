@@ -107,5 +107,7 @@ Official Link To Download vscode : https://code.visualstudio.com/
 
   npm i chalk [To install package into nodejs]
 
+  npm install [To generate the node_modules/install the dependencies from package.json folder]
+
 
  
