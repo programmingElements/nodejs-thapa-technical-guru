@@ -20,3 +20,9 @@ console.log();
 const res02 = validator.isEmail('chakri.j66');
 
 console.log(res02 ? chalk.green.inverse(res02) : chalk.red.inverse(res02)); // false
+
+console.log();
+
+const res03 = validator.isEmail('hareesh@hotmail.in');
+
+console.log(res03 ? chalk.green.inverse(res03) : chalk.red.inverse(res03)); // false
