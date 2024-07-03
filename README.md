@@ -111,3 +111,9 @@ Official Link To Download vscode : https://code.visualstudio.com/
 
 
  
+# Node.js Web Server
+
+To access web pages of any web application, you need a web server. The web server will handle all the http requests for the web application.
+
+Node.js provides capabilities to create your own web server which will handle HTTP requests asynchronously. Yoou can use IIS or Apache to run Node.js web application but it is recommended to use Node.js web server.
+
