@@ -126,4 +126,10 @@ Node.js provides capabilities to create your own web server which will handle HT
 
   JSON is often used when data is send from a server to a web page.
 
-  
+
+# Create a API using Nodejs
+
+  API is the acronym for Application Programming Interface, Which is a Software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on you phone, you're using an API.
+
+  * https://fakestoreapi.com/users
+  * https://fakestoreapi.com/products
