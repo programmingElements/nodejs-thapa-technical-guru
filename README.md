@@ -117,3 +117,13 @@ To access web pages of any web application, you need a web server. The web serve
 
 Node.js provides capabilities to create your own web server which will handle HTTP requests asynchronously. Yoou can use IIS or Apache to run Node.js web application but it is recommended to use Node.js web server.
 
+# Node.js Routing
+
+
+# JSON in Nodejs
+
+  JSON stands for Javascript Object Notation. JSON is a lightweight format for storing and transporting data.
+
+  JSON is often used when data is send from a server to a web page.
+
+  

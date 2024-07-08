@@ -13,7 +13,17 @@ const http = require("http");
 const port = 8001;
 
 const server = http.createServer(function(request, response) {
-    response.end("Hello from the others sides");
+    // console.log(request.url);
+    if (request.url === "/") {
+        response.end("Hello from the home sides");
+    } else if (request.url === "/about") {
+        response.end("Hello from the about us sides");
+    } else if (request.url === "/contact") {
+        response.end("Hello from the contact us sides");
+    } else {
+        response.writeHead(404, {"Content-Type": "text/html"})
+        response.end("<h1> 404 error pages. page doesn't exists </h1>");
+    }
 });
 
 
