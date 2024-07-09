@@ -133,3 +133,10 @@ Node.js provides capabilities to create your own web server which will handle HT
 
   * https://fakestoreapi.com/users
   * https://fakestoreapi.com/products
+
+# Events Module
+
+  * Node.js has a builtin module called Events,
+  * Where you can create- , fire-, and listen for- your own events.
+
+  
