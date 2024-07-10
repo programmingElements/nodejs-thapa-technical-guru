@@ -139,4 +139,33 @@ Node.js provides capabilities to create your own web server which will handle HT
   * Node.js has a builtin module called Events,
   * Where you can create- , fire-, and listen for- your own events.
 
+# Nodejs Streams
+
+  Streams are Objects that let you read data from a source or write data to a destination in continuous fashion. In Node.js, there are four types of streams - 
+
+  Streaming means listening to music or watching video in 'real time', instead of downloading a file to your computer and watching it later
+
+  Readable - Stream which is used for read operation.
+
+  Writable - Stream which is used for write operation.
+
+  Duplex - Stream which can be used for both read and write operation.
+
+  Transform - A Type of duplex stream where the output is computed based on input.
+
+  Each type of stream is an EventEmitter instance and throws several events at different instance of times. For example, some of the commonly used events are - 
+
+  data - This event is fired when there is data is available to read.
+
+  end - This event is fired when there is no more data to read.
+
+  error - This event is fired when there is any error receiving or writing data.
+
+  finish - This event is fired when all the data has been flushed to underlying system
+
+
+# Stream Pipes in Nodejs
+
+  stream.pipe(), the method used to take a readable stream and connect it to a writeable steam.
+
   
