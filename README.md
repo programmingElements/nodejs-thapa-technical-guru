@@ -169,3 +169,14 @@ Node.js provides capabilities to create your own web server which will handle HT
   stream.pipe(), the method used to take a readable stream and connect it to a writeable steam.
 
   
+
+# Working on Sending Email In NodeJS
+
+  Nodemailer
+
+  - Official Link: https://www.nodemailer.com/
+
+ SMTP Server For Demo Mail Server
+
+  - Official Link: https://ethereal.email/
+
