@@ -180,3 +180,32 @@ Node.js provides capabilities to create your own web server which will handle HT
 
   - Official Link: https://ethereal.email/
 
+# Weather App Using NodeJS [Project Not Worked Properly But Some configurations helped me lot like Weather API, FontAwesome Icons, Flat Colors]
+
+  SignIn or SignUp the Weather API : Official Link : https://home.openweathermap.org/users/sign_in
+
+  API Call : https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+  API Keys : <GET_API_KEY>
+
+  Example : https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=<API_KEY>
+
+  Font Awesome Icons
+       CDN Link for Icons : 
+          website for CDN Link: https://cdnjs.com/libraries/font-awesome
+
+          Select Stable Version & Asset Type in DropDown Boxes
+
+          CDN Link : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css" integrity="sha512-10/jx2EXwxxWqCLX/hHth/vu2KY3jCF70dCQB8TSgNjbCVAC/8vai53GfMDrO2Emgwccf2pJqxct9ehpzG+MTw==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
+      
+       Official Link : https://fontawesome.com/icons/sun?f=classic&s=solid
+
+  Colors Flat UI
+       
+       Official Link : flatuicolors.com/palette/cn
+
+
+  # Note: [Project Got Error] [Configurations Like Weather API Call, Flat Colors UI, FontAwesome Icons Helped Me]
+
+
+
